@@ -31,3 +31,4 @@ console.log('Hello World!')
 - *Middle Business Analyst - System Technologies*
 - *Business Analyst - ByTechSolution*
 - *Economist at Alfa-Bank*
+- *Economist at IlfaBank*
